@@ -20,6 +20,6 @@ yas=int(input("Yasiniz: "))
 bilet=50;
 Bilet=100;
 if yas>=65:
-    print(isim +"bilet ücretin: " + str(bilet))
+    print(isim +" bilet ücretin: " + str(bilet))
 else:
-    print(isim +"bilet ücretin: " + str(Bilet))
+    print(isim +" bilet ücretin: " + str(Bilet))
